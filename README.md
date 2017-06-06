@@ -1,3 +1,3 @@
-# Js App Boilerplate
+# Leetcode
 
-This is a js app boilerplate with batteries included to speed up project initiation.
+This is a project recording my LeetCode solutions and algorithm notes.
